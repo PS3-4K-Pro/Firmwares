@@ -43,6 +43,6 @@ Custom firmwares with overclock patches applied.<br>
 
  # Credits
  
- All credit goes to @DeViL303 @Evilnat @Joonie86 @littlebalup @MinaRalwasser and @zecoxao.
+ All credit goes to @DeViL303 @Evilnat @Joonie86 @littlebalup @MinaRalwasser, @zecoxao and Sony Interactive Entertainment Inc.
 </div>
   
