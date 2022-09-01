@@ -2,6 +2,8 @@
   
 # Firmwares
 Direct firmware downloader for PS3™ 4K Pro.
+  
+[![Github downloads (by repository)](https://img.shields.io/github/downloads/LuanTeles/Firmwares/total.svg?style=social)](https://github.com/LuanTeles/Firmwares/releases)
 
 ![screenshot_2021_10_29_00_22_49](https://user-images.githubusercontent.com/74815634/139370610-ac5751af-9325-405e-9249-773049203273.png)
 ![screenshot_2021_10_29_00_22_59](https://user-images.githubusercontent.com/74815634/139370614-5d785905-9b5e-47bb-8686-b1788b08e723.png)
